@@ -43,4 +43,8 @@ optional arguments:
 
 ### Themes
 
-You can select among a few themes.
+You can select among a few themes:
+
+![Default](https://raw.githubusercontent.com/FranciscoDA/gol/images/images/a.gif "Default theme")
+
+![Heatmap with grid](https://raw.githubusercontent.com/FranciscoDA/gol/images/images/b.gif "Heatmap with grid theme")
