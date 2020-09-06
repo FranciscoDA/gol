@@ -1,5 +1,7 @@
 # GOL - Game of Life
 
+![Build status](https://api.travis-ci.org/FranciscoDA/gol.svg?branch=master)
+
 Simple implementation of Conway's Game of Life using Pygame and Numpy
 
 ### Running the game
